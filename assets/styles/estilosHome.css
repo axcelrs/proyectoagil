@@ -3,9 +3,9 @@
 }
 
 .banner{
-    background-image: url("../img/spiderman.jpg");
+    background-image: url(../img/caballero.jpg);
     background-repeat: no-repeat;
-    padding: 1px;
+    padding: 25%;
     position: relative;
     z-index: 1;
     background-attachment: fixed;
